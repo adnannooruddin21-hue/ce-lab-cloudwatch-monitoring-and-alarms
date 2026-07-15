@@ -438,8 +438,6 @@ ce-lab-cloudwatch-monitoring/
 
 ## Bonus Challenges
 
-**+5 points each:**
-
 - [ ] **Reduce alarm latency to approximately 2 minutes.** Enable detailed monitoring on the instance (1-minute metrics), then rebuild the alarm with `--period 60 --evaluation-periods 2`. Document the cost tradeoff.
 - [ ] **Build a CloudWatch dashboard** with CPU, network, and disk widgets
 - [ ] **Add a memory alarm.** Memory is not a default EC2 metric; the CloudWatch agent must be installed to publish it. Explain why AWS cannot observe memory usage by default.
