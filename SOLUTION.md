@@ -9,11 +9,11 @@
 
 | Item | Value |
 |------|-------|
-| Instance ID | [i-xxxxxxxxxxxxx] |
-| Region | [us-east-2] |
+| Instance ID | [i-008a32431a66bdb7c] |
+| Region | [us-north-1] |
 | SNS Topic Name | [ec2-alerts] |
 | SNS Topic ARN | [arn:aws:sns:region:123456789012:ec2-alerts] |
-| Notification Email | [you@email.com] |
+| Notification Email | [adnan.nooruddin21@gmail.com] |
 | CPU Alarm Name | [high-cpu-alarm] |
 | Status Check Alarm | [instance-status-check-alarm] |
 
